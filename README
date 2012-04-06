@@ -1,0 +1,13 @@
+C Like BinaryTree in Common Lisp
+
+Requirements
+=============
+     (ql:quickload "iterate")
+
+InitialSetup
+============
+      (defpackage meme (:use :cl :iterate))
+      (in-package meme)
+  
+Compile and Load (C-c C-k) in SLIME
+       enjoy
